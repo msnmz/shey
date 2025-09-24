@@ -14,7 +14,7 @@ Welcome to the official home of Luna Better Sleep. Here you can explore detailed
 
 ## Quick links
 
-- 🔐 [Privacy policy (English)](./privacy-policy)
+- 🔐 [Privacy policy (English)](./luna-better-sleep/privacy-policy)
 - 🔐 [Política de privacidad (ES)](./luna-better-sleep/es/privacy-policy)
 - 🔐 [Politique de confidentialité (FR)](./luna-better-sleep/fr/privacy-policy)
 - 🔐 [Datenschutzerklärung (DE)](./luna-better-sleep/de/privacy-policy)
